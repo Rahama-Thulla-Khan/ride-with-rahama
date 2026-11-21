@@ -21,28 +21,28 @@ const products = [
     id: 2,
     name: "Metal Windshield",
     category: "Accessories",
-    price: "Link coming soon",
+    price: "1,100",
     description: "The metal windshield fitted on my Ronin.",
-    image: "",
-    link: ""
+    image: "https://bikerupgrade.com/wp-content/uploads/2026/05/295.png",
+    link: "https://bikerupgrade.com/product/tvs-ronin-metal-visor/"
   },
   {
     id: 3,
     name: "Phone Mount",
     category: "Accessories",
-    price: "Link coming soon",
+    price: "2,999",
     description: "A useful addition for navigation on longer rides.",
-    image: "",
-    link: ""
+    image: "https://m.media-amazon.com/images/I/51saoPRsf6L._SY300_SX300_QL70_FMwebp_AIweblab1392912,T1_.jpg",
+    link: "https://www.amazon.in/BOBO-Anti-Vibration-Anti-Theft-Waterproof-Motorcycle/dp/B0DPLMG53K/ref=sr_1_3_pp?sr=8-3"
   },
   {
     id: 4,
     name: "SMK Typhoon Helmet",
     category: "Riding Gear",
-    price: "Link coming soon",
+    price: "5,000",
     description: "My full-face helmet for everyday rides and touring.",
-    image: "",
-    link: ""
+    image: "https://m.media-amazon.com/images/I/41cab2zpgfL._SY300_SX300_QL70_FMwebp_AIweblab1392912,T1_.jpg",
+    link: "https://www.amazon.in/SMK-Typhoon-Helmet-Spoiler-Certified/dp/B09GKC9VLC/ref=sr_1_7?sr=8-7"
   }
 ];
 
